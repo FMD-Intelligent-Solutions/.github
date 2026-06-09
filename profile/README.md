@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="FMD Soluções Inteligentes" width="100%">
-</p>
+![Banner](./banner.png)
 
 <div align="center">
 
