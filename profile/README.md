@@ -2,7 +2,6 @@
   <img src="./banner.png" alt="FMD Soluções Inteligentes" width="100%">
 </p>
 
-
 <div align="center">
 
 # FMD Intelligent Solutions
